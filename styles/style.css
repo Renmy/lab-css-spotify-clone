@@ -90,7 +90,7 @@ nav a{
 }
 
 .services-card {
-    width: 30%;
+    flex-basis: 33%;
     text-align: center;
 }
 
@@ -131,7 +131,7 @@ nav a{
     position: absolute;
     height: 20vh !important;
     align-self: center !important;
-    left: 45%;
+    left: 50%;
 }
 
 
